@@ -4,7 +4,7 @@
 
 ### **What is NumPy?**
 
-*NumPy (Numerical Python) is a powerful open-source Python library used for numerical computing.*
+*NumPy (Numerical Python) library is a powerful open-source Python library used for numerical computing.*
 
 
 
@@ -91,6 +91,7 @@ It provides support for:
 | Masking               | Logical filtering using boolean conditions                 |
 
 | Integration           | Compatible with Pandas, Matplotlib, Scikit-learn, etc.     |
+
 
 
 
