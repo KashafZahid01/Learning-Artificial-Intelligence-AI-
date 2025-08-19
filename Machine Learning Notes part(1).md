@@ -6,7 +6,7 @@
 
 ### **Introduction:**
 
-Machine Learning is a branch of Artificial Intelligence (AI) that enables computers to learn patterns from data and make predictions or decisions without being explicitly programmed. Instead of writing rules manually, in ML we feed the machine with examples (data) and let it discover rules/patterns automatically.
+Machine Learning is a branch of Artificial Intelligence that enables computers to learn patterns from data and make predictions or decisions without being explicitly programmed. Instead of writing rules manually, in ML we feed the machine with examples (data) and let it discover rules/patterns automatically.
 
 
 
@@ -217,4 +217,5 @@ In real ML projects, you rarely just “train a model” — you also need:
 | \*\*5. Model Evaluation\*\*    | Test the model on unseen data using metrics (accuracy, RMSE, F1-score).       |
 
 | \*\*6. Deployment\*\*          | Make the model available for predictions in a production system.              |
+
 
