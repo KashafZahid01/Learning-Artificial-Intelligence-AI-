@@ -6,7 +6,7 @@
 
 
 
-##### **Word history:**
+##### **Word History:**
 
 * The name “Pandas” comes from “Panel Data”, which refers to multi-dimensional structured data.
 * It is built on top of NumPy, and works well with Matplotlib, Seaborn, and Scikit-learn.
@@ -125,6 +125,7 @@ Before building AI, you must understand the data:
 ### **3.Pandas works with Machine Learning Libraries:**
 
 * You can easily pass Pandas DataFrames to AI libraries like(Scikit-learn, TensorFlow / Keras, PyTorch etc).
+
 
 
 
