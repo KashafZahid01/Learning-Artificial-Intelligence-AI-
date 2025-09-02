@@ -1,6 +1,6 @@
 # **Probability:**
 
-*Probability measures how likely an event is to occur.*
+*Probability measures how likely an event is to occur*
 
 
 
@@ -231,6 +231,7 @@ P(Pos | No Disease) = 0.05
 
 
 P(Disease∣Pos) =1.94
+
 
 
 
